@@ -1,5 +1,5 @@
 {
-  "name": "queryjson",
+  "name": "queryjson-middleware",
   "version": "1.0.0",
   "description": "Parses :json-suffixed query parameters as json in koa or express.",
   "main": "index.js",
