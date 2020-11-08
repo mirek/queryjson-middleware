@@ -1,0 +1,35 @@
+{
+  "name": "queryjson",
+  "version": "1.0.0",
+  "description": "Parses :json-suffixed query parameters as json in koa or express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . && jest"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "json",
+    "koa",
+    "koajs",
+    "middleware",
+    "nested",
+    "param",
+    "query",
+    "url"
+  ],
+  "author": "Mirek Rusin",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "7.13.0",
+    "express": "4.17.1",
+    "jest": "26.6.3",
+    "koa": "2.13.0"
+  },
+  "eslintConfig": {
+    "extends": "eslint:recommended",
+    "env": {
+      "node": true
+    }
+  }
+}
